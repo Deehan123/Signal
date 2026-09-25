@@ -1,0 +1,6 @@
+{
+  "name": "Signal",
+  "description": "Fully offline, peer-to-peer emergency transceiver that mimics walkie-talkie behavior using Bluetooth and local mesh relay network routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
